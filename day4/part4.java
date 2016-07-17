@@ -11,3 +11,6 @@ for(int i = 0; i < arr.length; i++){
 }
 // get the sum off array
 
+int[][] newArr = {{1,2,3},{11},{4,5,6}};
+
+// multi dim arr
