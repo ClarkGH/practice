@@ -4,7 +4,8 @@ public class Main2 {
     Int age = 31;
     double grade = 9.9;
     char level = "S";
-    System.out.println("Printing is easy");
+    Int decade = (age/10);
+    System.out.println(decade);
   }
 }
 
