@@ -8,3 +8,6 @@ public class Part2 {
 }
 
 // The output is 3
+
+// if you want a value to stay constant, use final
+// ex: public static final int num = 3
