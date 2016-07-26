@@ -11,3 +11,5 @@ class Bacon extends Part1 {
     tasteLevel = "helll yeah";
   }
 }
+
+// private methods are not inherited by the subclass
