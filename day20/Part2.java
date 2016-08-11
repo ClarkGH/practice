@@ -19,6 +19,6 @@ public class Part2 {
     PrivateDancer tinaTurner = new PrivateDancer();
 
     tinaTurner.dance = "Dancing for money";
-    System.out.println(PrivateDancer.theBodyGuard());
+    System.out.println(tinaTurner.theBodyGuard());
   }
 }
